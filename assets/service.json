@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bamboo-reason-333822",
+  "private_key_id": "47fca3121c60cb444f84dc426e810003f3b7ba83",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDL9lGHVIXiZZcY\nAfRCpc6er/2vO0Ca94O7E9c6VomXNmGUQGp4YvOLw/eoddJ0FFJnANgcdcv4VYYf\nrk3vv81gfKGyUjW/Cly1YZVsbktQKXxGeYTmooWvbC3NnBFhX0WvwwLjA38TuEMF\nJt+4V/o/7BH6N8yR0G1HXBZ7MDCozgihGoXZxhJXejrWfyOVOlHQYka7HRpMzcGT\nLCobdAopMbtiNjR+5sShC/MTZAvxCRjcH27bBSY08iB9RgL6PzXUPTu39CXvLdwS\nXaXziwmHFm1EC6iox151Zb3e2/XhSg/oiNet/4abjrtZ8RQuBSCn/FM+GvGMGpOy\n3Xma+A5pAgMBAAECggEAG9+UajpolpU8FhWUSDRpHYIfGN6v2E25lKwkNm6DnKTb\npns8IaoiLuhP1NePNHpffYCdyBvoDU7Axt0W/Qv4+PXnUhuOiUZU/5uvpDMZe0HE\nIEx0l2FABEZ0JvxsWqJ+v0OXBieg6vS8Qfy7R7HMOwabuVZ9UDML8BvbXafrCnJp\nGRxqj+N5++Av5XeCI2/FepLBkYiKnVwYDjifWsXZuPvqlvR+dVI+klWeFe5wWGI6\n+c8PogQo5pvHxjKx6cFz8MZtMSeOpa5P3YspjEWDSHUexkwXupl25haR0guEBeZa\nuPmttENXlR0sqaBHGUw9sUbVtrApF/pBJTMSG9FR1QKBgQD1hRhQaZJU8Hz9mb85\nYTzQQS+rL2VvEH509sMpqt+bbpj01oQ7Zl95tifkGKj4rXhRSqMiTsguhpKidEz0\nqbxNLcbLh/5jCs/yjCn+blJ6pGO7bkzuKzCZXfmTRAErzAtmMJohBWR+g5+60LQt\nORTvMU1V8h/fJmRoC7Pj78bFRQKBgQDUqxqUCmTkhAg+QTfyowK/FRjV60hrCHBx\nsjFZAiYvwAfiXj7G/L1YzouGE+73tvCzyZf703slWYhG63RKP4W5zX1rsLbDFAQ7\nAVwTaQk1TIQ5yXyOo17jsEJCNiVPvch5atw1MRqwgD3IyGFcawcpBhtp5hPRKK7p\n+g/45i781QKBgQCwEztUr+GZuL5qwRA6flm2oIknI16DQDjweOeNwlWKis53CEDc\nuJZQGyqQkn7bmMxowDYuLIGznB8dEnr+G5xHXUTsQiNVtDNdpteW+Fd+TNaZXIkf\nZSn9Uz/hNSwB1Nt39fMTK2LeuFadC3+rzvwMbjcgI/xndIkddQcVuKe8YQKBgQCl\naUhM6SC8VK2MrnFzubKDKUed61jyVygOZsjXMEK/VR9MxH0TjLVBg7Ul3g86gQIK\n9LvP1RetX0wNzUkwDuRWNixdPJ+Kb+Eye8ZAGqxc1lzqDXth/lPpyMhgc3jl4vkw\n5xrMDJtzuOtVZfXESkLRd7yOy7OSNZCG0EboEzFs2QKBgHE7YCcv2KwNwMqAGdYS\n/EyFMintbKdMbzf1jgcLKBQJHZ1vvQnBOIw4FG1Ql4JYLKYde9oseHTd3v3JgtKk\niexovd78WTfZiUTtNw+uCnwAMEjo3WEHDNcxzdYulArYv5i5ZNBo6lV+iUfqnFUj\n7QVmcYWSEt5tIQIA+jFscG5V\n-----END PRIVATE KEY-----\n",
+  "client_email": "mrdonut@bamboo-reason-333822.iam.gserviceaccount.com",
+  "client_id": "105865068316868348429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mrdonut%40bamboo-reason-333822.iam.gserviceaccount.com"
+}
